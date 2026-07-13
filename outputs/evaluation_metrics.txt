@@ -1,0 +1,7 @@
+===== MODEL EVALUATION =====
+
+RMSE : 1.1442745184882896
+MAE : 0.9361124271994902
+Precision@10 : 0.0
+Recall@10 : 0.0
+F1 Score : 0
